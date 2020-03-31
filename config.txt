@@ -1,2 +1,5 @@
-this is a simple config file
+final this is a simple config file
 add line
+
+add line 3
+
